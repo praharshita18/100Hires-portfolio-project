@@ -2,139 +2,120 @@
 
 **LinkedIn:** https://www.linkedin.com/in/tommy-clark-/  
 **Collected:** 2026-06-20  
-**Collection method:** Manual curation; B2B Social Playbook newsletter, YouTube video summaries, publicly shared posts  
-**Focus:** LinkedIn content systems, B2B social operations, ghostwriting, executive voice
+**Collection method:** Manual — copied from linkedin.com/in/tommy-clark-/recent-activity/all/
 
 ---
 
-## Post 1 — The LinkedIn content system for SaaS
+## Post 1
 
-> Most SaaS founders treat LinkedIn like a to-do item.
->
-> The ones who win treat it like a product.
->
-> Product thinking applied to LinkedIn:
->
-> - Who is my user? (your ICP, not your investors)
-> - What problem am I solving for them? (education, entertainment, or inspiration)
-> - What does "retention" look like? (they come back to your profile)
-> - What does "activation" look like? (they follow you, DM you, share your posts)
->
-> When you think about your LinkedIn content as a product, you stop asking "what should I post?"
-> You start asking "what does my audience need next?"
->
-> That's the mindset shift.
+Content Writers. I'm begging you. Please, no matter what the AI gurus promise you, write at least 1 piece per day, by hand.
 
-**Format:** Text  
-**Theme:** LinkedIn content as product thinking  
-**Approx. engagement:** 2,400+ likes  
-**Why included:** The product-thinking framework applied to LinkedIn — highly distinctive and teachable
+We're entering an age where, to keep yourself sharp, you'll have to treat writing like going to the gym. Time under tension (which LLMs promise to remove) is what makes you a stronger writer.
+
+What this looks like for me:
+
+I'm working on a fantasy novel right now. ~110,000 words into my second draft. Every morning, I try to write 1000 words before logging into Slack.
+
+I didn't start this with the intention of slop-proofing my mind (I just wanted to write a book), but writing creative fiction over the past year and some change was accidentally one of the best measures I could have taken against the onslaught of slop.
+
+You don't have to write a book (probably don't - it's very very hard and will consume most of your life). You could write a LinkedIn post, a blog article, idk man.
+
+Just make it a point to write some words every day that didn't come from a Claude prompt.
+
+**Engagement:** 1,906 likes · 189 comments · 91 reposts
 
 ---
 
-## Post 2 — Why personal accounts beat company pages
+## Post 2
 
-> Your company's LinkedIn page has 2,000 followers.
-> You personally have 8,000.
->
-> Every post from the company page reaches ~1% of followers organically.
-> Every post from your personal profile reaches ~5-10%.
->
-> LinkedIn's algorithm heavily favors personal accounts over company pages.
->
-> The math:
-> - Company page post: 2,000 × 1% = 20 people
-> - Personal post: 8,000 × 7% = 560 people
->
-> 28x more reach from your personal account.
->
-> And that's before considering that personal posts get more comments, which triggers more distribution.
->
-> If you're investing in your company LinkedIn page and not your personal brand, you're burning budget.
+It's looking bleak for Content Writers who refuse to learn strategy.
 
-**Format:** Text with math  
-**Theme:** Personal vs. company page strategy  
-**Approx. engagement:** 3,100+ likes  
-**Why included:** Concrete data comparison that directly supports founder/executive brand strategy
+LinkedIn has gotten more crowded over the past 1-2 years. Gone are the days when you could just ghostwrite 5 random posts per week for an exec and watch their account grow like a weed. This just does not work anymore.
 
----
+There must be a cohesive strategy behind all that goes live.
 
-## Post 3 — The hook framework for LinkedIn
+> What are the 3-4 core pillars each post maps back to?
+> What specific hook levers are you trying in this post, and why?
+> Who is the specific person we're trying to reach with this post?
+> What media format is going to work best for this content asset?
+> What anecdote should we add to elevate this content piece?
 
-> The first line of your LinkedIn post is 80% of the work.
->
-> Here are 6 hooks that consistently perform:
->
-> 1. The contrarian take: "Most [experts] are wrong about [topic]."
-> 2. The number hook: "I spent $50K on LinkedIn ads. Here's what I learned."
-> 3. The story open: "In 2021, I almost shut down my company. This is what saved it."
-> 4. The question: "Why do 90% of B2B SaaS companies struggle with LinkedIn? (it's not what you think)"
-> 5. The promise: "Here's the exact LinkedIn strategy I used to generate $2M in pipeline."
-> 6. The bold statement: "LinkedIn is the only B2B channel that still has free reach. Here's how to use it."
->
-> None of these are tricks. They're signals that something valuable follows.
->
-> If the content doesn't deliver, no hook saves you.
+The list goes on.
 
-**Format:** Numbered list  
-**Theme:** Hook writing for LinkedIn  
-**Approx. engagement:** 2,900+ likes  
-**Why included:** One of the clearest hook frameworks in the B2B social space
+B2B founders and execs don't want to hire a human word processor. They have Claude for that. These potential clients want someone who can think critically, own the content strategy, and grow their distribution intentionally.
+
+When I look at the Content Writers who excel at Compound Content Studio and retain clients the longest, they all have the ability to think strategically. Writers who couldn't cut it could never quite think beyond "I need to hit this post quota" and taking the path of least resistance to do so.
+
+The best writers always thought clearly and strategically. Paul Graham wrote, "To write well you have to think clearly, and thinking clearly is hard."
+
+If you can learn to do the same, you'll make yourself quite valuable on the market and defensible against AI slop.
+
+**Engagement:** 248 likes · 44 comments · 8 reposts
 
 ---
 
-## Post 4 — On content consistency vs. content quality
+## Post 3
 
-> Controversial opinion: for LinkedIn, consistency beats quality.
->
-> I've watched hundreds of B2B founders try to build a LinkedIn presence.
->
-> The pattern of failure:
-> - Write 1 "perfect" post per month
-> - Get 50 likes
-> - Give up after 6 months
->
-> The pattern of success:
-> - Write 5 "good enough" posts per week
-> - Some get 50 likes, some get 500
-> - After 6 months, you have a real audience
->
-> Quality has diminishing returns on LinkedIn.
-> Consistency has compounding returns.
->
-> Post B+ content every day.
-> Don't wait for A+ content monthly.
+The Content Writer job market appears brutal. Yet companies are desperate for great writers. How do you place yourself among the writers irreplaceable by AI? Here are a few thoughts.
 
-**Format:** Text  
-**Theme:** Posting cadence and consistency  
-**Approx. engagement:** 2,200+ likes  
-**Why included:** Counterintuitive but well-supported argument; directly actionable for any content team
+(1) Write something from scratch, daily. If you rely on Claude to draft everything for you, your writing skill will atrophy. The writers who retain their edge going forth will treat the skill like physical strength. Use it, or lose it.
+
+Doesn't have to be 'LinkedIn content,' either - my writing practice is cranking out 1000 words for my debut fantasy novel.
+
+(2) Just don't use AI on job apps, or in test projects for said jobs. It's so, so obvious. If you don't think employers can tell, just know: we can. When I review applications, I will happily move forward an unpolished submission that uses real, human thought versus obvious Claude-slop.
+
+(3) Start posting stuff online. Writing online changed my life. I landed a 6-figure marketing job as a new college grad because I had been posting on Twitter. I built a 7-figure agency off of LinkedIn. The upside is ridiculous—even today.
+
+(4) Be easy to work with. Make your manager's and your clients' lives easier. Most of this has to do with being proactive. Can I turn my head away and trust you'll do your job, and do it well? If so, you're in good shape.
+
+(5) Get comfortable being client-facing. Plenty of writers are introverts. I am one of them. You cannot use this as a cop-out for not knowing how to talk to clients. Especially now.
+
+This list isn't exhaustive, but if you do focus on these skills—genuinely—I would be surprised if you are on the market for long.
+
+**Engagement:** 425 likes · 69 comments · 16 reposts
 
 ---
 
-## Post 5 — The LinkedIn content calendar for B2B SaaS
+## Post 4
 
-> Here's the LinkedIn content mix that works for B2B SaaS:
->
-> Monday: Educational framework or how-to (builds authority)
-> Tuesday: Behind-the-scenes / process post (builds trust)
-> Wednesday: Opinion / hot take (builds engagement)
-> Thursday: Customer story or case study (builds proof)
-> Friday: Personal reflection or week in review (builds relationship)
->
-> You don't need to post every day to start.
-> But you do need variety.
->
-> If every post is educational, people learn from you but don't feel connected.
-> If every post is personal, people like you but don't hire you.
->
-> The mix is what converts readers into buyers.
+Founder-led content is table stakes in 2026. The real savvy tech companies are layering in multiple executive accounts, creating a 'Content Ecosystem.' Here's how (and why) it works.
 
-**Format:** Day-by-day framework  
-**Theme:** LinkedIn content calendar structure  
-**Approx. engagement:** 3,400+ likes  
-**Why included:** Extremely practical, repeatable framework — the most immediately actionable post in this collection
+LinkedIn is a volume-constrained platform. Your CEO can really only post once…maybe twice…per day. I suppose you could rip three+ posts daily, but that doesn't seem wise.
+
+So, as companies mature from startup to scale-up, it makes sense to activate more folks for thought leadership.
+
+This opens up more volume without turning your CEO's account into a spam cannon.
+
+You're also able to tailor each voice in your company to reach a subset of your ICP.
+
+For example, your CEO may be focused on lead generation. Your CTO might focus more on recruiting engineering talent. Your marketing manager might be better suited to reach a more junior segment of your ICP. See how this works?
+
+If I were running marketing at a SaaS company doing $10M+ ARR, I'd do whatever I could to get 4-5 executive voices active on LinkedIn.
+
+I'm seeing more demand for this motion from prospects. I just had a Series B company on our roster expand from the founder to two more C-Suite execs. Another earlier-stage company has four of their team members working with us. I suspect the appetite for this will only increase.
+
+**Engagement:** 57 likes · 20 comments · 1 repost
 
 ---
 
-*Note: LinkedIn does not provide a public API for post retrieval. Posts curated from The B2B Social Playbook newsletter, YouTube video content, and publicly shared screenshots.*
+## Post 5
+
+Look, man. If you want any chance at growing on LinkedIn in 2026, you have to be willing to "play the game." I don't think you understand.
+
+If you resent the idea of posting content online...
+If you view LinkedIn as a "necessary evil..."
+If you find it cringe...
+
+You will struggle to see any meaningful payoff from the platform.
+
+That resentment leaks into every corner of your content strategy.
+
+You won't be willing to spend the time each week writing. You won't be open to testing content ideas that work, but feel a bit vulnerable. You won't be comfortable being on camera to capture media that will help your posts perform well. You'll water down your real opinions and end up with HR corpo-slop that reads like the million other GPT-generated posts. The list goes on.
+
+Founders who win on LinkedIn lean in.
+
+This doesn't mean you should appear as someone you're not. That is not a solid long-term strategy. But you should push yourself beyond your comfort zone. *Really* give LinkedIn a shot going into the rest of the year.
+
+You might surprise yourself.
+
+**Engagement:** 111 likes · 28 comments · 1 repost
