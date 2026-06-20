@@ -2,138 +2,179 @@
 
 **LinkedIn:** https://www.linkedin.com/in/gaetanodinardi/  
 **Collected:** 2026-06-20  
-**Collection method:** Manual curation; personal newsletter, publicly shared posts, Sales Hacker/Ahrefs content archives  
-**Focus:** Content distribution, SEO + social synergy, compounding content assets
+**Collection method:** Manual — copied from linkedin.com/in/gaetanodinardi/recent-activity/all/
 
 ---
 
-## Post 1 — The content compounding framework
+## Post 1
 
-> Most content has a shelf life of 48 hours.
-> Some content compounds for years.
->
-> The difference: is it tied to a trend or a truth?
->
-> Trend content: "ChatGPT prompts for marketers" → spikes, dies
-> Truth content: "How to write a cold email that gets a reply" → grows slowly, keeps ranking
->
-> For B2B SaaS, your content portfolio should be:
-> - 20% trend content (timely takes, news-reactive)
-> - 80% truth content (evergreen frameworks, how-tos, original data)
->
-> Trend content builds short-term engagement.
-> Truth content builds long-term search, links, and authority.
->
-> Most teams have it backwards.
+Nearly all of the SEO/GEO problems I am working on today are category misalignment and mismatch problems... not ticky-tacky "optimization" tricks or GEO hacks.
 
-**Format:** Text with ratio framework  
-**Theme:** Evergreen vs. timely content strategy  
-**Approx. engagement:** 1,900+ likes  
-**Why included:** The 20/80 compounding framework is distinctive and actionable for B2B SaaS content teams
+Here is the problem:
 
----
+B2B SaaS brand that's been around for 10+ years has a digital footprint in a "legacy" category that's now unsexy... but it's still their breadwinner.
 
-## Post 2 — SEO and LinkedIn as a flywheel
+And now there's a new thing they need to become known for:
 
-> LinkedIn and SEO are not competing channels.
->
-> They're a flywheel.
->
-> Here's how:
->
-> Step 1: Post your POV on LinkedIn (fast feedback on what resonates)
-> Step 2: The posts that get engagement tell you what your audience actually cares about
-> Step 3: Turn those ideas into long-form SEO content
-> Step 4: The SEO content ranks, brings in new readers
-> Step 5: New readers follow you on LinkedIn
-> Step 6: Repeat
->
-> LinkedIn is your R&D lab for content ideas.
-> SEO is your distribution engine for validated ideas.
->
-> Used together, they compound.
+Customer Service CRM ➡️ Intelligent CX Platform
 
-**Format:** Numbered steps  
-**Theme:** SEO + LinkedIn content flywheel  
-**Approx. engagement:** 2,300+ likes  
-**Why included:** Uniquely integrative framework — rare voice combining SEO depth with LinkedIn strategy
+Low Code Platform ➡️ Agentic Systems Platform
+
+CMMS ➡️ Intelligent Maintenance Platform
+
+LMS ➡️ Skills Intelligence Platform
+
+Product Analytics ➡️ Product Intelligence Platform
+
+Intranet Portal ➡️ Employee Experience Platform
+
+etc...
+
+I've seen companies setup Profound with a massive list of LLM prompt tracking. The dashboards show zero visibility and they wonder why.
+
+The problem is that AI retrieval often follows entity neighborhoods.
+
+So when SaaS brands evolve into new positioning, they need a FULL BLOWN category attack plan with 50% of the effort allocated to on-site content (product pages, feature pages, brand comparisons, why we're different, etc). and the other 50% allocated to offsite: analyst relations, guest posts, review site optimization, YouTube, inclusion on Forrester / Gartner reports for the new category, etc.
+
+Instead, they launch one new product page with a press release and expect magic to happen. It just doesn't work. It's not enough.
+
+ChatGPT sub-queries are heavily branded and category dependent. You can reverse engineer any bottom of funnel category prompt and see for yourself.
+
+Inspect element, navigate to the network tab and check the sub-queries and safe URLs. No amount of tactical work can get your brand included in this consideration set.
+
+This is at least 80% of the work I am doing today. It is all deeply strategic work and almost zero tactical work.
+
+What you see going viral on LinkedIn is not even close to what's really happening behind the scenes at big companies.
+
+**Engagement:** 222 likes · 59 comments · 6 reposts
 
 ---
 
-## Post 3 — Content distribution checklist
+## Post 2
 
-> Writing the content is step 1.
->
-> Distribution is steps 2 through 20.
->
-> For every piece of B2B content I publish, I check:
->
-> ✓ LinkedIn post (native, not link share)
-> ✓ Twitter/X thread
-> ✓ Email to newsletter list
-> ✓ Shared in 2-3 relevant Slack communities
-> ✓ Repurposed as a short video/clip
-> ✓ Pinged 3 people who would find it relevant (not "please share" — genuine share)
-> ✓ Added to internal wiki / resource library
-> ✓ Linked from existing high-traffic content
->
-> If a piece doesn't get distributed, it didn't get published.
-> Publishing without distribution is whispering in an empty room.
+One of the hardest things about "traffic going down" is managing the executive perception of it.
 
-**Format:** Checklist  
-**Theme:** Content distribution workflow  
-**Approx. engagement:** 2,100+ likes  
-**Why included:** Highly operational checklist — directly usable in a B2B content playbook
+Take this scenario: organic traffic is down 15% May vs April, but demo requests attributed to organic search are down by 30%.
 
----
+They will assume:
 
-## Post 4 — On brand search as a leading indicator
+Something is wrong. Traffic is down. And as a result, we are losing leads.
 
-> The metric most B2B marketers ignore: branded search volume.
->
-> When someone Googles your company name, that means:
-> - They heard about you somewhere (podcast, word of mouth, social)
-> - They want to know more
-> - They're at the start of their buying journey
->
-> Branded search is a proxy for demand you created that you're not measuring.
->
-> If your branded search is growing month over month, your content is working — even if your MQLs aren't.
->
-> If your branded search is flat, your content isn't creating awareness. Full stop.
->
-> Track it in Google Search Console. Watch it like a northstar.
+But here's what no one considered:
 
-**Format:** Text  
-**Theme:** Brand search as a demand metric  
-**Approx. engagement:** 1,600+ likes  
-**Why included:** Connects content investment to a measurable metric (brand search) — bridges vanity and revenue
+- The drop in demo requests is a normalization after a few unusually strong months. The overall trend looks similar to a few months ago.
+
+- Overall website traffic was the same. The channel mix is what actually shifted.
+
+- Organic was affected by a strong paid search month (2x increase in PPC traffic) capturing demand that otherwise would have been attributed to organic.
+
+- The biggest traffic declines were mostly from TOFU informational pages and knowledge base / support content, not high-intent commercial pages.
+
+- AI search leads doubled. While it doesn't fully offset the delta from organic search, it's plausible that AI referrals + paid search are covering lost ground.
+
+- Brand recommendation rate across LLMs are at 90% for our flagship categories.
+
+——————
+
+It's on YOU, as the channel owner, to surface these insights, control the narrative, and manage the executive perception.
+
+If you don't, then good luck. ✌️
+
+**Engagement:** 81 likes · 17 comments · 1 repost
 
 ---
 
-## Post 5 — Lessons from growing Sales Hacker
+## Post 3
 
-> When I was at Sales Hacker, we grew organic traffic 426% in 18 months.
->
-> Here's the actual playbook:
->
-> 1. We hired practitioners (salespeople) to write, not content generalists
-> 2. We covered topics nobody else was covering yet (SDR operations, tech stack)
-> 3. We built a community around the content (not just a blog)
-> 4. We made contributors feel like stars, not just sources
-> 5. We distributed every piece through email + community before hitting publish
-> 6. We updated old content obsessively (no orphan posts)
->
-> The result: Sales Hacker became the media brand of the sales world.
-> Which is why it got acquired.
->
-> Content is the business. Not a support function for the business.
+Organic traffic reporting only matters when you exclude TOFU and filter by REVENUE pages.
 
-**Format:** Numbered list  
-**Theme:** Content-led growth, community building  
-**Approx. engagement:** 2,700+ likes  
-**Why included:** Unique practitioner case study with documented results — strong playbook anchor
+Organic traffic for SEO reporting should be filtered by:
+
+1. Homepage: Brand versus non-branded split.
+
+2. Pricing and demo pages: This is mainly branded organic search, but still a direct buying signal. If demand drops, it normally has a direct correlation to lower lead flow.
+
+3. Products and solutions pages: Typically a mix of brand and non-brand, but steady and reliable organic traffic.
+
+4. "Money" content: Skews more non-branded, and represents bottom-of-funnel high intent pages that influence pipeline and buying decisions. Think comparisons, product tear downs, etc.
+
+Most B2B SaaS websites are full of noise. Tons of pages that are expired, low value, get no visibility, etc. -- pages that don't influence buyers but get included in SEO reporting.
+
+When you filter out the noise from reporting, organic traffic makes a lot more sense.
+
+**Engagement:** 88 likes · 14 comments · 3 reposts
 
 ---
 
-*Note: LinkedIn does not provide a public API for post retrieval. Posts curated from publicly shared screenshots, Gaetano's newsletter, and marketing community discussions where his posts were widely referenced.*
+## Post 4
+
+The attribution black box is going to disproportionately hurt SEO teams, agencies and consultants -- while rewarding channels that have more trackable attribution such as paid search and other campaigns ran with UTMs.
+
+Below is a diagram of the "SEO Value Chain" which came directly from the CRO and RevOps leadership I was working with.
+
+While search has dramatically evolved, the analytics strategy is still latching onto a model that no longer exists.
+
+Anyone scrapping in the trenches can immediately see the problems with this style of thinking:
+
+1. It's linear.
+2. It's based on rankings.
+3. It's based on clicks and traffic.
+4. It's based on an assumption that traffic volume is correlated with more leads.
+
+Now, it correctly pushes teams to think in terms of conversion quality and ROI, but the means in which that gets achieved is misunderstood.
+
+What commonly happens in this type of SEO reporting is that branded search get filtered out, so conversions from organic search that occur on brand heavy pages like homepage and pricing are excluded.
+
+Meanwhile, for PPC campaigns, the opposite happens. ROI on branded search is cheered and applauded.
+
+For almost every Google Ads account I've seen in B2B, branded search drives the highest ROI. This gets counted as a legitimate marketing effort.
+
+But Rand Fishkin calls this handing out promo flyers to hungry people already walking into the pizza shop. Hmm... I think he's onto something 👀
+
+SEO = only gets love on non-branded ROI, but the attribution system is broken.
+
+PPC = able to "prove ROI" by bidding on branded search terms, drawing a clear connection to revenue based on activities happening on other channels.
+
+Therefore, SEO gets scrutinized, while PPC gets continued investment.
+
+Make it make sense. 🤔
+
+**Engagement:** 93 likes · 34 comments · 3 reposts
+
+---
+
+## Post 5
+
+Here is a diagnostic framework for marketers focused on AEO/GEO:
+
+what matters most → how you show up → why → what to fix → who owns it
+
+1. Do we know which prompts matter most at the bottom of the funnel, and have we tested how our brand appears for those prompts?
+
+2. Are LLMs actually recommending our brand, or only citing our pages?
+
+3. When our brand appears in AI answers, what category is it bucketed into? And is that the category we want to own?
+
+4. Do LLMs associate our brand with the right buyer, use case, and problem set? Or are they grouping us with legacy/weak overlap competitors?
+
+5. Within our flagship category, are AI answers being shaped mostly by first party sites or by affiliates and review platforms?
+
+6. Are third party sites, review platforms, Reddit threads, analysts and forums shaping more of our AI visibility than our own content?
+
+7. What is the role of YouTube in our specific niche? How often does YouTube influence LLM answers for our money prompts? Do we even have a YouTube strategy? If not, why?
+
+8. Is there a consistent positioning narrative across our homepage, product pages, comparative content, review websites and 3rd party affiliates?
+
+9. Are we publishing content that actually helps buyers understand our positioning and differentiators?
+
+10. Are we trying to "brute force" our way into AI visibility with listicles and formatting tricks instead of earning recommendation status through market validation and category alignment?
+
+11. Are we just relying on tactical tricks like adding FAQ blocks and "key takeaways" because it looks like productive GEO work?
+
+12. What outdated, inaccurate, or weak brand associations keep resurfacing in AI answers?
+
+13. If third party websites and sources dominate the category's influence, do we have a plan to earn stronger coverage there?
+
+14. Which team owns fixing those negative associations once we find them?
+
+**Engagement:** 166 likes · 62 comments · 7 reposts
