@@ -1,11 +1,58 @@
-# Jason's AMA at SaaStr AI 2026: Agents at 120%, AI and Sales
+# Jasons AMA at SaaStr AI 2026 Agents at 120 AI and Sales
 
 URL: https://www.youtube.com/watch?v=qOfg-L6Mo_M
 Collected: 2026-06-20
 
 ---
 
-Transcript unavailable — YouTube IP rate limit. Re-run fetch_transcripts_v2.py after 24h to retry.
+Jason's AMA at SaaStr AI 2026: Agents at 120%, AI and Sales, What Benioff Wishes He Could Do
 
-Video: Jason's AMA at SaaStr AI 2026: Agents at 120%, AI and Sales
-URL: https://www.youtube.com/watch?v=qOfg-L6Mo_M
+Q: What's your honest take on where AI agents actually outperform humans in sales today?
+
+There are two categories where I think we're already seeing AI agents at 120% of the best human — meaning better than the best human, not just average.
+
+The first is inbound qualification. When someone fills out a form or hits your chat widget, an AI agent responds instantly, qualifies them correctly based on your ICP criteria, routes them to the right place, and does this 24/7 with no variance in quality. Your best human SDR on their best day, fully caffeinated, fresh off a training session — the AI is better. Faster response, no missed leads at 2am, consistent quality. That category is done. Humans won't win it back.
+
+The second is social selling with instant value delivery. Monitoring signals — LinkedIn posts, job change announcements, fundraising news, product complaints — and responding with something genuinely useful within minutes. The best human social sellers I know check their feeds once or twice a day. An agent checks every minute and never misses a signal.
+
+Q: What still requires humans?
+
+Relationships that require in-person trust. If I'm a CRO buying a $3 million platform, I want to meet the person I'm going to call when things go wrong. I want to look them in the eye. AI can handle everything around that meeting — research, prep, follow-up, renewal nudges — but the meeting itself, the handshake, the dinner — that's still human.
+
+Complex deal judgment. Should we discount? Should we add this feature to close? Should we walk away from this prospect? These are judgment calls that require context AI doesn't have and frankly consequences AI can't own.
+
+Anything where the customer explicitly wants a human. Some customers will tell you directly. Respect that. The worst thing you can do is try to sneak AI past a customer who's already skeptical.
+
+Q: What's the "Benioff wishes he could do" thing you keep referencing?
+
+Marc has been pretty open about this. The thing he wishes every Salesforce customer had is a forward deployed engineer — an FDE — who sits with the customer, understands their specific workflows, configures and trains AgentForce on their actual data, and doesn't invoice until the thing is working.
+
+The reason this is powerful is it flips the economic model. Traditional enterprise software: you sell the license, you do some onboarding, the customer tries to use it, most of the time it fails because implementation is hard, churn happens. With FDE model: you don't get paid until it works. That aligns incentives completely. The customer has no risk. You have maximum incentive to make it work.
+
+The challenge for Salesforce is doing this at scale for 150,000 customers. You can't send a human FDE to 150,000 accounts. So the thesis is that AI agents become the forward deployed engineers — they can configure themselves based on your data, train themselves on your best use cases, and prove value before a dollar changes hands.
+
+I think the companies that figure out how to do this for mid-market will win the next decade of enterprise software.
+
+Q: You talk about the "value to slop ratio." Can you explain what you mean?
+
+Every interaction your company has with a prospect or customer either builds trust or destroys it. That's always been true. What AI has done is dramatically raise the volume of interactions — especially outbound — and dramatically lower the average quality. So the ratio of value-creating interactions to trust-destroying slop has gotten much worse for most companies.
+
+The companies doing this right have made a deliberate choice to constrain volume in favor of quality. They would rather send 100 genuinely useful outbound touches than 10,000 AI-generated cadences. Because 10,000 cadences that look like AI slop doesn't just fail to convert — it actively destroys your brand. Every person who got a terrible AI email from your company is now less likely to buy from you ever, even when they genuinely need what you sell.
+
+Measure your value-to-slop ratio. If you can't articulate what value every outbound message delivers to the specific recipient before you send it, don't send it.
+
+Q: How should individual GTM professionals position themselves to thrive?
+
+There are going to be fewer GTM jobs. That's just true and I won't sugarcoat it. But the jobs that exist will be better jobs — higher leverage, better paid, more interesting.
+
+The people who thrive will understand the tools without being replaced by them. You need to know how to train an agent, evaluate its output, prompt it effectively, and make the judgment calls it can't make. You need to understand where AI fails — and it does fail, it hallucinates, it can't read a room, it doesn't know your customer's daughter just got into Stanford — and be the human layer that catches those failures.
+
+The people who are at risk are the ones doing pure volume work. If your job today is sending 200 cold emails a day by copying and pasting a template, that job is gone. If your job is figuring out what message would resonate with this specific account and why, and then training a system to execute that at scale, your job is more valuable than it's ever been.
+
+Q: What's the venture market looking for right now in AI B2B?
+
+Only growth. That's it. I've had this conversation with enough funds now to say clearly: the valuation discussion has changed completely. In 2020 and 2021, there was still a multiple on ARR that varied by growth rate and net retention and a dozen other factors. Now there's one question: are you growing fast? If yes, they'll fund you at almost any terms. If no, you're not fundable at almost any valuation.
+
+The implication for founders: if you're not growing fast right now, don't raise. You won't get the terms you want and you'll take a round that anchors your next raise badly. Get growing first. Then raise.
+
+The other thing I'd say: there's an arms race for engineers that has no end in sight. The best engineers are going to the best AI companies. If you're not one of the best AI companies, you're competing for the rest. That's a talent war you probably won't win on comp alone. You win it on mission, on equity upside, and on the quality of the technical problems you're working on.

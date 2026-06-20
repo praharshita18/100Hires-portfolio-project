@@ -1,12 +1,12 @@
-# Jason's AMA at SaaStr AI 2026: Agents at 120%, AI and Sales, What Benioff Wishes He Could Do
+# AI and B2B in 2026 Find the Tailwinds or Get Left Behind
 
-URL: https://www.youtube.com/watch?v=qOfg-L6Mo_M
+URL: https://www.youtube.com/watch?v=RZYUn_ExLBY
 Collected: 2026-06-20
 
 ---
 
 Transcript unavailable: 
-Could not retrieve a transcript for the video https://www.youtube.com/watch?v=qOfg-L6Mo_M! This is most likely caused by:
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=RZYUn_ExLBY! This is most likely caused by:
 
 YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
 - You have done too many requests and your IP has been blocked by YouTube

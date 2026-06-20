@@ -1,0 +1,34 @@
+# We replaced our sales team with 20 AI agents heres what happened
+
+URL: https://www.youtube.com/watch?v=I-R1bc1rlFs
+Collected: 2026-06-20
+
+---
+
+We replaced our sales team with 20 AI agents—here's what happened next | Jason Lemkin (SaaStr) — Lenny's Podcast
+
+So SaaStr went from about 10 humans doing GTM work to 1.2 humans plus 20 AI agents. And the output is roughly the same. That's the headline. Same productivity, dramatically lower cost, and frankly the quality of the outbound work is higher.
+
+Here's what we deployed. We use Artisan for outbound email sequencing. We use Qualified for inbound lead qualification on the website — it runs 24/7, it never misses a visitor, it qualifies them in real time and routes them appropriately. We use AgentForce from Salesforce for some of the CRM workflow automation. And then we have a bunch of custom agents built on top of these for things like event follow-up, sponsor outreach, and newsletter monetization.
+
+The thing that surprised us most: the quality ceiling. We assumed AI would get us to average. It actually gets us above average in most categories, not because the AI is inherently creative, but because we trained it on our best human outputs. The top 5% of emails our best SDR ever sent — we trained the agent on those. So now the agent sends something that looks like our best rep having a perfect day, every single day, at infinite scale.
+
+This is the key insight. You can't just deploy an AI agent with generic prompts and expect it to work. It won't. What makes these agents good is the training data, which means you need to have had good humans first. You need to have the email that worked, the follow-up cadence that converted, the objection handling that closed the deal. The agent is just a multiplier on what you already know works.
+
+On the headcount math: we're not unique. I'm seeing this across the SaaStr community. Companies that used to have 5 to 8 person SDR/BDR teams are running the same pipeline on 1 person plus agents. The 1 person is the one who trains the agents, monitors the results, makes judgment calls on edge cases, and handles anything that requires genuine relationship context. That's the surviving role.
+
+SDRs and BDRs as a category are becoming extinct. I don't say that to be harsh. I say it because it's true and founders and sales leaders need to plan accordingly. The entry-level sales job is not going to exist in 3 years in the way it does today. What's replacing it is something between a GTM engineer and a sales ops analyst — someone who understands the tools, can train agents, can read signals, and can intervene intelligently.
+
+On what still requires humans: anything where the relationship genuinely matters. If you're selling to a CRO at a Fortune 500 and the deal is $2 million, that person wants to meet you. They want to shake your hand. They want to know that someone they can call is on the other end of this. AI can warm them up, do research, write the pre-meeting brief, handle the follow-up — but the meeting itself, the trust-building, the actual relationship? That's still human.
+
+Inbound qualification is the category where AI is already past 120% of human performance. By that I mean: better conversion rates, faster response times, higher customer satisfaction scores. Because humans get tired. Humans have bad days. Humans go to lunch. An AI agent at 2am when a prospect fills out your form is better than your best human SDR on their best day, because the response is instant and the quality is consistent.
+
+Social selling with instant value delivery — another category where AI is approaching or exceeding human performance. If someone posts on LinkedIn that they're frustrated with their current CRM, and your agent spots that, drafts a personalized response with a relevant case study, and gets it out within minutes, that's something humans just can't do at scale.
+
+The companies that are thriving right now are not the ones who either went all-in on AI immediately (many moved too fast and lost institutional knowledge) or who resisted (they're getting outcompeted on cost). The ones thriving are the ones who ran a proper transition: kept the best humans, documented what they did that worked, trained agents on that, and then let the agents scale it.
+
+For sales leaders figuring out where they fit: the winners in this world are the ones who understand the tools. You don't need to be an engineer. But you need to understand what these agents can and can't do, you need to know how to prompt them, how to evaluate their output, and how to make the judgment calls they can't make. That's the job. And there will be fewer of those jobs, but the ones that exist will pay more because they're much harder.
+
+The value-to-slop ratio is what I obsess about now. Every outbound message your company sends either increases or decreases the probability that person buys from you ever. Most AI-generated outbound decreases it because it's obviously AI, it adds no value, and it makes your brand feel cheap. The bar is not "did AI write this" — the bar is "would I be embarrassed if my best customer saw this?" If the answer is yes, don't send it.
+
+One more thing on the forward deployed engineer model: I think this is the most interesting GTM motion to emerge in the AI era. Instead of selling software and hoping the customer uses it, you send an engineer who sets it up, trains it on their specific context, and doesn't bill until it's working. Benioff has said he wishes every Salesforce customer had this. I think it points to where enterprise sales is going — you're not selling software, you're selling outcomes, and you own the outcome delivery.

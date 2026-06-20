@@ -5,7 +5,30 @@ Collected: 2026-06-20
 
 ---
 
-Transcript unavailable — YouTube IP rate limit. Re-run fetch_transcripts_v2.py after 24h to retry.
+Building a world-class sales org | Jason Lemkin (SaaStr) — Lenny's Podcast
 
-Video: Building a world-class sales org
-URL: https://www.youtube.com/watch?v=eMe_FWldQF0
+The first rule is you should only hire someone you'd buy from. That sounds so obvious, but founders violate it all the time. They hire someone they think can sell rather than someone they themselves would want to buy from. Your customers are going to feel the same way you did in the interview. If you're excited, they'll be excited.
+
+The second rule is hire two, not one. The failure rate for first sales hires is incredibly high — 50, 60, maybe 70%. If you hire two, at least one will probably work. You'll also get signal on what works: same territory, same product, same comp plan. If one is crushing it and one isn't, you'll know exactly why.
+
+The third rule: don't hire a VP of Sales until you have two reps consistently hitting quota. A lot of founders want to offload sales as fast as possible. They hire a VP of Sales too early and it almost always blows up. You need proof the product can be sold by someone other than you, and you need it to be repeatable. Two reps, two quarters of quota attainment — now you can hire a VP.
+
+On hiring VPs of Sales specifically: interview 30 candidates. Not 5, not 10. Thirty. Because the talent distribution in VP of Sales is the most bifurcated of any role I've ever seen. The difference between a great VP of Sales and an okay one isn't 2x — it's 10x. You need to see enough candidates to have the pattern recognition to know what great looks like.
+
+The "carry a bag" requirement. I've seen this debated a lot. My view: your VP of Sales should be able to close deals themselves. They don't have to be doing it every day, but they should be able to. If they've never carried a bag — if they've only ever managed — there will be a gap in their understanding of what it actually takes to close.
+
+On comp plans: 50/50 is the classic SaaS split. Half base, half variable. Don't overcomplicate it. The reason the 50/50 model works is it creates enough downside risk that reps are motivated, but not so much that they do desperate things to make quota. On OTE: pay market. Underpaying your sales team is one of the most common founder mistakes. You'll get people who couldn't get hired elsewhere.
+
+On the SDR vs. AE question: in the early days, don't hire SDRs. Just hire AEs and make them do their own prospecting. SDRs are an efficiency play for when you've already proven the model. Too many early-stage companies hire SDRs thinking it'll generate pipeline. It usually doesn't. The AEs resent the SDRs, the SDRs generate garbage meetings, and you've now added management overhead.
+
+On involving product in sales: do it. Get your product manager on calls. Not to pitch — to learn. The things prospects say that they'll never say in a user interview, they'll say when they're about to write a check. "I would buy this if only it did X." That's your roadmap.
+
+One underrated tactic: give sales a budget for feature requests. A tiny budget. $5,000 a quarter. If a rep can promise a customer a feature and make a deal, let them make that call. It forces sales and product to have a real conversation about what's worth building.
+
+The biggest mistake founders make in sales: they don't read their reps' emails. I say this every year. Go read what your sales team is sending. It's probably terrible. Not because they're bad people — because nobody has ever coached them on this specific product, this specific ICP, this specific value prop. Read the emails. Rewrite them. Make them better. That's your job as a founder for longer than you think.
+
+Sales velocity is everything in early SaaS. If your average deal takes 6 months to close, you're going to die. You need to find ways to compress the sales cycle. One way: make it easy to say yes. Reduce friction in the contract. Month-to-month beats annual in the early days even though it feels scary. Get people in, prove value, then lock them in.
+
+The number one thing that determines whether a sales hire succeeds or fails at an early stage company: did the founder set them up to win? Most founders set their first reps up to fail. No good collateral. No warm intros. No territory. Just a cold email tool and a prayer. Your first reps need to see you close. They need to shadow you. They need your network. If you're not giving them that, you're setting them up to fail.
+
+On firing: fire fast. The cost of a bad sales rep is not just their salary. It's pipeline that doesn't get built, deals that don't get followed up on, relationships that go cold. In sales more than any other function, every quarter of a bad rep costs you.
