@@ -142,8 +142,6 @@ Eight consensus themes emerged across the 80 source documents. Full analysis in 
 
 ### Challenges Encountered
 
-**Claude Code Authentication:** After installing Claude Code, authentication was required before use. Located the login flow and successfully authenticated using a Claude account.
-
 **Repository Setup:** With a Computer Science Engineering background and prior experience with GitHub, setup was straightforward.
 
 **YouTube IP Rate Limiting:** The `youtube-transcript-api` script was blocked mid-run due to YouTube's IP-based rate limiting. The first 25 transcripts fetched successfully; the remaining 5 (Jason Lemkin) hit a 429 error. These were resolved by manually collecting and pasting the transcripts directly into the repository files.
