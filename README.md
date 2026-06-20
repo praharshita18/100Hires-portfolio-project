@@ -10,20 +10,15 @@ This repository documents a research project in B2B SaaS LinkedIn organic conten
 
 ### Tools Installed
 
-* Cursor IDE
-* Claude Code Extension for Cursor
-* Codex Extension for Cursor
+* Claude Code (CLI)
 * GitHub (existing account)
 
 ### Steps Completed
 
-1. Installed Cursor IDE.
-2. Installed the Claude Code extension in Cursor.
-3. Logged into Claude Code using a Claude account.
-4. Installed the Codex extension in Cursor.
-5. Logged into Codex using an OpenAI account.
-6. Created a public GitHub repository.
-7. Opened the repository in Cursor.
+1. Installed Claude Code CLI.
+2. Authenticated with a Claude account.
+3. Created a public GitHub repository.
+4. Initialized the repository locally and connected it to the remote.
 
 ---
 
@@ -147,17 +142,17 @@ Eight consensus themes emerged across the 80 source documents. Full analysis in 
 
 ### Challenges Encountered
 
-**Claude Code Authentication:** After installing the Claude Code extension, it was not immediately obvious that authentication was required. Explored the extension interface, located the login options, and successfully authenticated using a Claude account.
+**Claude Code Authentication:** After installing Claude Code, authentication was required before use. Located the login flow and successfully authenticated using a Claude account.
 
-**Codex Authentication:** Similar to Claude Code, Codex required account authentication before use. Connected the OpenAI account and verified access.
+**Repository Setup:** With a Computer Science Engineering background and prior experience with GitHub, setup was straightforward.
 
-**Repository Setup:** With a Computer Science Engineering background and prior experience creating and managing GitHub repositories, setup was straightforward. The main task was becoming familiar with Cursor.
+**YouTube IP Rate Limiting:** The `youtube-transcript-api` script was blocked mid-run due to YouTube's IP-based rate limiting. The first 25 transcripts fetched successfully; the remaining 5 (Jason Lemkin) hit a 429 error. These were resolved by manually collecting and pasting the transcripts directly into the repository files.
 
 ### Key Learnings (Setup)
 
-* How to install and configure AI-powered development tools in Cursor.
-* How to connect external AI services through authentication.
-* How to create and manage GitHub repositories.
+* How to use Claude Code as a primary development tool for research and automation tasks.
+* How to structure a research repository for systematic content collection.
+* How to handle API rate limits gracefully — script-based collection with manual fallback for blocked requests.
 
 ---
 
@@ -168,4 +163,3 @@ Eight consensus themes emerged across the 80 source documents. Full analysis in 
 - [x] Phase 3: Content collection (YouTube transcripts + LinkedIn posts)
 - [x] Phase 4: Cross-expert synthesis
 - [ ] Phase 5: Playbook development (pending)
-- [ ] README rationale section (content to be provided by project lead)
