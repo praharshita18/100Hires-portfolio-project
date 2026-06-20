@@ -75,7 +75,7 @@ research/
 │   ├── dave-gerhardt/                  # 5 transcripts
 │   ├── amanda-natividad/               # 3 transcripts
 │   ├── anthony-pierri/                 # 2 transcripts
-│   ├── jason-lemkin/                   # 5 transcripts (pending IP cooldown re-fetch)
+│   ├── jason-lemkin/                   # 5 transcripts (manually collected)
 │   ├── gaetano-dinardi/                # 2 transcripts
 │   ├── tommy-clark/                    # 4 transcripts
 │   ├── alex-lieberman/                 # 3 transcripts
