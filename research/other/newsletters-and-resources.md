@@ -52,17 +52,18 @@ These are primary or near-primary sources that deepen the research base.
 
 ---
 
-## Chris Walker — Revenue Vitals Newsletter / Podcast
+## Jason M. Lemkin — SaaStr AI Insider + SaaStr Podcast
 
-**URL:** https://chriswalker.substack.com (Revenue Vitals)  
-**Format:** Newsletter + podcast  
-**Audience:** B2B revenue leaders, CMOs, demand gen practitioners  
-**Why it matters:** Revenue Vitals is where Walker publishes quantitative findings from client work. Unlike LinkedIn posts (which are arguments), the newsletter includes data.
+**URL:** https://saastr.com / https://www.youtube.com/@saastr  
+**Format:** Newsletter + podcast + YouTube channel  
+**Audience:** SaaS founders, revenue leaders, B2B operators  
+**Why it matters:** SaaStr is the largest B2B/SaaS community in the world. Lemkin's newsletter and podcast distill pattern recognition across thousands of SaaS companies — the most data-dense practitioner perspective on what actually drives SaaS growth.
 
 **Notable episodes/issues:**
-- "The Case Against MQLs" (foundational argument with data)
-- "Dark Social: How to Measure What You Can't Track"
-- "The Demand Gen Playbook for B2B SaaS 2024"
+- "We replaced our sales team with 20 AI agents — here's what happened next" (Lenny's Podcast)
+- "Building a world-class sales org" (Lenny's Podcast)
+- "Jason's AMA at SaaStr AI 2026: Agents at 120%, AI and Sales"
+- Annual SaaStr conference sessions (YouTube archive)
 
 ---
 

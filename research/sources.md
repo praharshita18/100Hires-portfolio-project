@@ -50,17 +50,18 @@ Curated roster of 10 practitioners who consistently publish high-signal content 
 
 ---
 
-## 4. Chris Walker
+## 4. Jason M. Lemkin
 
-**Why this expert:** CEO of Passetto (formerly Refine Labs). The loudest advocate for dark social and the "demand gen vs. lead gen" debate. His LinkedIn content is data-heavy and deliberately contrarian, challenging MQL-obsessed marketing orthodoxy. Significant influence on how B2B SaaS teams think about pipeline attribution.
+**Why this expert:** Founder of SaaStr — the world's largest community for B2B/SaaS founders, with 250,000+ members, an annual conference, and a fund. Lemkin is the most prolific practitioner voice on SaaS go-to-market, sales hiring, and what actually drives revenue growth vs. what sounds good on a slide. His posts are short, contrarian, and grounded in pattern recognition across thousands of SaaS companies.
 
 | Field | Detail |
 |---|---|
-| LinkedIn | https://www.linkedin.com/in/chriswalker171/ |
-| YouTube | https://www.youtube.com/@refinelabs |
-| Podcast | Revenue Vitals |
-| Content themes | Demand generation, dark social, pipeline attribution, B2B GTM |
-| Collected | LinkedIn posts (manual), YouTube transcripts (API) |
+| LinkedIn | https://www.linkedin.com/in/jasonmlemkin/ |
+| YouTube | https://www.youtube.com/@saastr |
+| Newsletter | SaaStr AI Insider |
+| Podcast | SaaStr Podcast |
+| Content themes | SaaS GTM, sales org building, AI-native revenue ops, founder mistakes, B2B growth |
+| Collected | LinkedIn posts (manual), YouTube transcripts (API — pending IP cooldown) |
 | Last updated | 2026-06-20 |
 
 ---

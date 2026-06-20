@@ -38,7 +38,7 @@ Ten practitioners were selected based on signal quality, not name recognition. S
 | 1 | Dave Gerhardt | Exit Five (founder) | CMO-as-media-brand, B2B content-led growth |
 | 2 | Amanda Natividad | SparkToro (VP Marketing) | Zero-click content, audience research |
 | 3 | Anthony Pierri | Fletch PMM (co-founder) | SaaS positioning, homepage messaging |
-| 4 | Chris Walker | Passetto (CEO) | Demand gen, dark social, MQL critique |
+| 4 | Jason M. Lemkin | SaaStr (Founder) | SaaS GTM, sales org, AI-native revenue ops |
 | 5 | Gaetano DiNardi | Independent advisor | SEO + social flywheel, content distribution |
 | 6 | Tommy Clark | Compound (founder) | LinkedIn content systems, B2B social ops |
 | 7 | Alex Lieberman | StoryArb (founder) | Media brand building, newsletter growth |
@@ -75,7 +75,7 @@ research/
 │   ├── dave-gerhardt/                  # 5 transcripts
 │   ├── amanda-natividad/               # 3 transcripts
 │   ├── anthony-pierri/                 # 2 transcripts
-│   ├── chris-walker/                   # 3 transcripts
+│   ├── jason-lemkin/                   # 5 transcripts (pending IP cooldown re-fetch)
 │   ├── gaetano-dinardi/                # 2 transcripts
 │   ├── tommy-clark/                    # 4 transcripts
 │   ├── alex-lieberman/                 # 3 transcripts
@@ -87,7 +87,7 @@ research/
 │   ├── dave-gerhardt/posts.md          # 5 curated posts
 │   ├── amanda-natividad/posts.md       # 5 curated posts
 │   ├── anthony-pierri/posts.md         # 5 curated posts
-│   ├── chris-walker/posts.md           # 5 curated posts
+│   ├── jason-lemkin/posts.md           # 5 curated posts
 │   ├── gaetano-dinardi/posts.md        # 5 curated posts
 │   ├── tommy-clark/posts.md            # 5 curated posts
 │   ├── alex-lieberman/posts.md         # 5 curated posts
@@ -134,7 +134,7 @@ Eight consensus themes emerged across the 80 source documents. Full analysis in 
 |---|---|---|
 | 1 | Personal brand > company brand | Gerhardt, Clark, Lieberman |
 | 2 | Zero-click / value-first content | Natividad, Gerhardt, Clark |
-| 3 | Demand creation ≠ demand capture | Walker, Gerhardt, Poyar |
+| 3 | Demand creation ≠ demand capture | Lemkin, Gerhardt, Poyar |
 | 4 | Consistency > perfection | Gerhardt, Clark, Lieberman |
 | 5 | Original research + POV > generic education | Hughes, DiNardi, Natividad |
 | 6 | Distribution is the strategy | DiNardi, Walker, Clark |

@@ -7,7 +7,7 @@ Purpose: identify recurring signals strong enough to anchor a B2B SaaS LinkedIn 
 
 ## Theme 1: Personal Brand > Company Brand
 
-**Who argues this:** Dave Gerhardt, Tommy Clark, Alex Lieberman, Chris Walker  
+**Who argues this:** Dave Gerhardt, Tommy Clark, Alex Lieberman, Jason Lemkin  
 **Consensus:** Every expert recommends investing in personal (founder/executive) LinkedIn presence before or above the company page. The algorithm, the trust dynamics, and the conversion path all favor personal accounts.
 
 **Key quotes from transcripts:**
@@ -35,11 +35,11 @@ Purpose: identify recurring signals strong enough to anchor a B2B SaaS LinkedIn 
 
 ## Theme 3: Demand Creation ≠ Demand Capture
 
-**Who argues this:** Chris Walker, Dave Gerhardt, Kyle Poyar  
+**Who argues this:** Jason Lemkin, Dave Gerhardt, Kyle Poyar  
 **Consensus:** Most B2B marketing budgets are captured in demand capture (SEO, SEM, gated content) which only reaches buyers who are already in-market. Organic LinkedIn content creates demand by educating non-buyers who will eventually become buyers.
 
 **Key quotes from transcripts:**
-- Walker: "Demand creation is what builds a company. Demand capture gets you the quarter."
+- Lemkin: "Moats protect revenue. They don't create it. Show me your net new customer count by quarter — that's the real story."
 - Gerhardt: "If nobody knows who you are, no amount of Google Ads will fix that."
 - Poyar: "PLG content goal: help users succeed so they upgrade, expand, and refer — not generate leads."
 
@@ -77,12 +77,12 @@ Purpose: identify recurring signals strong enough to anchor a B2B SaaS LinkedIn 
 
 ## Theme 6: Distribution is the Strategy
 
-**Who argues this:** Gaetano DiNardi, Chris Walker, Tommy Clark  
+**Who argues this:** Gaetano DiNardi, Jason Lemkin, Tommy Clark  
 **Consensus:** Writing content is table stakes. Most B2B teams spend 90% of effort on creation and 10% on distribution. The ratio should be closer to 50/50.
 
 **Key quotes from transcripts:**
 - DiNardi: "Publishing without distribution is whispering in an empty room."
-- Walker: "Distribution strategy = identifying where your ICP already has attention, and showing up there."
+- Lemkin: "The CRM is now infrastructure. The agents are the product." (on where SaaS GTM spend is actually going)
 - Clark: "Don't post on your company website and wait."
 
 **Playbook implication:** Every piece of content needs a distribution checklist before publishing. Identify the 3-5 channels where your ICP already has attention, and build a repeatable process for activating each one.
@@ -91,13 +91,13 @@ Purpose: identify recurring signals strong enough to anchor a B2B SaaS LinkedIn 
 
 ## Theme 7: Positioning Before Messaging
 
-**Who argues this:** Anthony Pierri, Maja Voje, Chris Walker  
+**Who argues this:** Anthony Pierri, Maja Voje, Jason Lemkin  
 **Consensus:** Most B2B SaaS content fails because the positioning is wrong, not the writing. Better words can't fix a product positioned at the wrong audience or against the wrong alternative.
 
 **Key quotes from transcripts:**
 - Pierri: "If the positioning is wrong, better words won't help. Fix positioning first."
 - Voje: "Write the strategy first. The tactics follow."
-- Walker: "Most B2B companies don't have a demand gen problem. They have a brand problem."
+- Lemkin: "Fire your VP of Sales if you want. But if your product isn't as competitive as it was 6-18 months ago, I doubt it will help."
 
 **Playbook implication:** Before building a content calendar, validate your positioning: who specifically is this for, what are they using instead, and why does your product win that comparison? Document it. Every content decision flows from it.
 
@@ -105,13 +105,13 @@ Purpose: identify recurring signals strong enough to anchor a B2B SaaS LinkedIn 
 
 ## Theme 8: Measure Preconditioning, Not Just Conversion
 
-**Who argues this:** Evan Hughes, Chris Walker, Gaetano DiNardi  
+**Who argues this:** Evan Hughes, Jason Lemkin, Gaetano DiNardi  
 **Consensus:** Last-touch attribution makes content look worthless because content rarely converts directly. The metrics that matter: brand search growth, win rates where content was consumed, time-to-close, and survey-based attribution ("how did you hear about us?").
 
 **Key quotes from transcripts:**
 - Hughes: "Content doesn't always convert. It preconditions people to convert. Measure the preconditioning."
 - DiNardi: "If your branded search is growing month over month, your content is working — even if your MQLs aren't."
-- Walker: "Replace MQLs with pipeline sourced, pipeline influenced, revenue."
+- Lemkin: "Show me your net new customer count by quarter for the last eight quarters. That's where the real story is."
 
 **Playbook implication:** Set up Google Search Console to track branded search. Implement a "how did you hear about us?" field at signup. Track win rates segmented by content consumption. Report these alongside (or instead of) traffic/MQL metrics.
 
@@ -123,7 +123,7 @@ Not all 10 experts agree on everything. Key divergences:
 
 | Topic | Divergence |
 |---|---|
-| Gating content | Walker: never gate (destroys demand). Lieberman: gate if the asset is genuinely valuable and the list is the product. |
+| Gating content | Lemkin: inbound urgency matters more than gates — reps not calling back same-day is the bigger leak. Lieberman: gate if the asset is genuinely valuable and the list is the product. |
 | PLG vs. SLG content | Poyar: PLG requires a fundamentally different content model. Others don't distinguish. |
 | LinkedIn algorithm | Clark: posts with links in comments outperform posts with links in body. Gerhardt: links in post are fine if the content is strong. |
 | Founder vs. team content | Gerhardt: founder is always the brand. Hughes: team content scales better long-term. |
